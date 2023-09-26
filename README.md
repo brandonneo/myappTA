@@ -14,7 +14,7 @@ Create a React/Svelte frontend in Typescript and NodeJS web backend in Typescrip
 
 In your submission, must include the following:  
 
-1. Use this [csv file](users.csv) as the sample  
+1. Use this [csv file](data.csv) as the sample  
 
 2. Include unit tests with complete test cases including edge cases.  
 
